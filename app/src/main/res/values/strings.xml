@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="popularity">By Popularity</string>
+    <string name="rating">By Rating</string>
+    <string name="favourite">Favourites</string>
+    <string name="title_activity_reviews">ReviewsActivity</string>
+    <string name="title_activity_master_details">MasterDetails</string>
+    <string name="title_activity_reviews_fragment">ReviewsFragment</string>
+</resources>
